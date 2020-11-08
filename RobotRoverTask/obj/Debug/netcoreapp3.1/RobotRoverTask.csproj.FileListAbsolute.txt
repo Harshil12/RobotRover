@@ -1,0 +1,11 @@
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\obj\Debug\netcoreapp3.1\RobotRoverTask.csprojAssemblyReference.cache
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\obj\Debug\netcoreapp3.1\RobotRoverTask.AssemblyInfoInputs.cache
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\obj\Debug\netcoreapp3.1\RobotRoverTask.AssemblyInfo.cs
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.exe
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.deps.json
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.runtimeconfig.json
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.runtimeconfig.dev.json
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.dll
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\bin\Debug\netcoreapp3.1\RobotRoverTask.pdb
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\obj\Debug\netcoreapp3.1\RobotRoverTask.dll
+C:\Users\hgandhi\Desktop\LGH\Harshil\RobotRoverTask\obj\Debug\netcoreapp3.1\RobotRoverTask.pdb
