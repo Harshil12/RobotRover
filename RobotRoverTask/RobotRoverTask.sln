@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29905.134
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RobotRoverTask", "RobotRoverTask.csproj", "{2D7CEA3A-3BFF-40D1-BA2F-D063C301B9DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RobotRoverTask", "RobotRoverTask.csproj", "{2D7CEA3A-3BFF-40D1-BA2F-D063C301B9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rover.Test", "..\Rover.Test\Rover.Test.csproj", "{5E930D2B-CDA2-44B2-B01F-BF55826ED406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2D7CEA3A-3BFF-40D1-BA2F-D063C301B9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2D7CEA3A-3BFF-40D1-BA2F-D063C301B9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2D7CEA3A-3BFF-40D1-BA2F-D063C301B9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E930D2B-CDA2-44B2-B01F-BF55826ED406}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E930D2B-CDA2-44B2-B01F-BF55826ED406}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E930D2B-CDA2-44B2-B01F-BF55826ED406}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E930D2B-CDA2-44B2-B01F-BF55826ED406}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
